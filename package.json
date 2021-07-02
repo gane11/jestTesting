@@ -1,0 +1,22 @@
+{
+  "name": "jesttesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gane11/jestTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gane11/jestTesting/issues"
+  },
+  "homepage": "https://github.com/gane11/jestTesting#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
