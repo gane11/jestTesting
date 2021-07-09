@@ -18,4 +18,6 @@ test('"Hello" is not anagram of "Aloha"', () => {
     expect(isAnagram('Hello', 'Aloha')).toBeFalsy();
 });
 
-test('hello')
+test('hello', () => {
+    expect()
+})
