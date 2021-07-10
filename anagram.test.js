@@ -4,9 +4,9 @@ test('isAnagram function exists' ,() => {
     expect(typeof isAnagram).toEqual('function');
 });
 
-test('"cinema" is anagram of "iceman"', () => {
-    expect(isAnagram('cineam', 'iceman')).toBeTruthy();
-});
+// test('"cinema" is anagram of "iceman"', () => {
+//     expect(isAnagram('cineam', 'iceman')).toBeTruthy();
+// });
 
 
 test('"Dormitory" is anagram of "dirty room##"', () => {
